@@ -4,7 +4,7 @@ This repository contains small Spring Boot projects designed for learning and pr
 
 # 💡 Contributing to Projects Repo
 
-This is a **general coding projects hub** for Hacktoberfest 2025.  
+This is a **general coding projects hub** for Hacktoberfest 2026.  
 Any type of meaningful coding project is welcome!
 
 ---
@@ -35,7 +35,7 @@ Note - follow My github and star the repo.
 
 ---
 
-🎉 Let’s build a library of useful and fun projects for Hacktoberfest 2025 🚀
+🎉 Let’s build a library of useful and fun projects for Hacktoberfest 2026 🚀
 
 
 Table of Contents-
